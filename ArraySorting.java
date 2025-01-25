@@ -7,6 +7,6 @@ public class ArraySorting {
         Arrays.sort(numbers);
 
         System.out.println("Sorted array: " + Arrays.toString(numbers));
-System.out.println("Testing Git");
+System.out.println("Testing Git repository");
     }
 }
